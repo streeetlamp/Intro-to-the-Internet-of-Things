@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Intro to the Internet of Things</title>
-    <link>/post/</link>
+    <link>http://streeetlamp.github.io/Intro-to-the-Internet-of-Things/post/</link>
     <description>Recent content in Posts on Intro to the Internet of Things</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 22 Jan 2016 10:41:54 -0500</lastBuildDate>
-    <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://streeetlamp.github.io/Intro-to-the-Internet-of-Things/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Hello World</title>
-      <link>/post/hello-world</link>
+      <link>http://streeetlamp.github.io/Intro-to-the-Internet-of-Things/post/hello-world</link>
       <pubDate>Fri, 22 Jan 2016 10:41:54 -0500</pubDate>
       
-      <guid>/post/hello-world</guid>
+      <guid>http://streeetlamp.github.io/Intro-to-the-Internet-of-Things/post/hello-world</guid>
       <description>&lt;p&gt;Hi everyone, this little site will be serving as a central repository for the course. That includes any assignments, resources, syllabus, discussions and sporadic posts of interesting or inspiring links.&lt;/p&gt;
 
 &lt;p&gt;Find a list of resources in the menu to the right -&amp;gt;&lt;/p&gt;
