@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Intro to the Internet of Things</title>
-    <link>http://streeetlamp.github.io/Intro-to-the-Internet-of-Things/</link>
-    <description>Recent content on Intro to the Internet of Things</description>
+    <title>Pages on Intro to the Internet of Things</title>
+    <link>http://streeetlamp.github.io/Intro-to-the-Internet-of-Things/page/</link>
+    <description>Recent content in Pages on Intro to the Internet of Things</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 22 Jan 2016 14:12:14 -0500</lastBuildDate>
-    <atom:link href="http://streeetlamp.github.io/Intro-to-the-Internet-of-Things/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://streeetlamp.github.io/Intro-to-the-Internet-of-Things/page/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Hardware Checkout</title>
@@ -131,20 +131,6 @@
 
 &lt;p&gt;&lt;a href=&#34;https://education.github.com/pack&#34;&gt;GitHub Student Pack&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&#34;https://github.com/najela/discount-for-student-dev&#34;&gt;Big list of discounts&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Hello World</title>
-      <link>http://streeetlamp.github.io/Intro-to-the-Internet-of-Things/2016/01/22/hello-world</link>
-      <pubDate>Fri, 22 Jan 2016 10:41:54 -0500</pubDate>
-      
-      <guid>http://streeetlamp.github.io/Intro-to-the-Internet-of-Things/2016/01/22/hello-world</guid>
-      <description>&lt;p&gt;Hi everyone, this little site will be serving as a central repository for the course. That includes any assignments, resources, syllabus, discussions and sporadic posts of interesting or inspiring links.&lt;/p&gt;
-
-&lt;p&gt;Find a list of resources in the menu to the right -&amp;gt;&lt;/p&gt;
-
-&lt;p&gt;All posts have comments enabled below \/, any comments made count towards class participation the same as in class discussions do. Assigned readings will be announced in class and posted here and it is required to post a brief comment on these. Comments at a minimum only need to be a sentence or two and can be a question about the material, any insights gained, replying to another comment or just quick thoughts on the subject. Also please use a Disqus username that allows me to know who is who.&lt;/p&gt;
 </description>
     </item>
     
