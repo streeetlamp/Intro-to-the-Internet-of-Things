@@ -6,10 +6,11 @@ disqusShortname = "arts-iot"
 # Enable Google Analytics by entering your tracking code
 # googleAnalytics = ""
 theme = "hugo-hikari-theme"
+canonifyurls = true
 
 [permalinks]
-  post = "/post/:slug"
-  fixed = ":title/"
+  post = "/:year/:month/:day/:slug"
+  page = "/:slug"
 
 [params]
   name = "Cody"

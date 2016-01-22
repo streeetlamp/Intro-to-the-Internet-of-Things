@@ -12,10 +12,13 @@
     </div>
     <nav>
         <br>
-        <ul>
-            <li><a href="/resources/" title="Resources">Resources</a></li>
-            <li><a href="/hardware-checkout/" title="Hardware Checkout">Hardware Checkout</a></li>
-            <li><a href="/pdf/IoT-Spring-2016-Syllabus.pdf" title="Syllabus">Syllabus <small>[PDF]</small></a></li>
-        </ul>
+    <ul>
+    {{ range where .Site.Pages "Section" "page" }}
+        <li>
+            <a href="{{ .Permalink }}" itemprop="url">{{ .Title }}</a>
+        </li>
+    {{ end }}
+        <li><a href="/pdf/IoT-Spring-2016-Syllabus.pdf" title="Syllabus">Syllabus <small>[PDF]</small></a></li>
+    </ul>
     </nav>
 </div>

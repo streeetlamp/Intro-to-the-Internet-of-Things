@@ -2,7 +2,7 @@
 date = "2016-01-22T14:12:14-05:00"
 description = ""
 title = "Hardware Checkout"
-
+type = "page"
 +++
 
 I have a small collection of various boards and sensors that I'm always adding to and will make available to loan out if you agree to do your best not to break or lose anything. This could be useful for trying before buying or just to tinker with actual hardware.
