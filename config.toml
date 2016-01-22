@@ -1,0 +1,37 @@
+baseurl = "/"
+languageCode = "en-us"
+title = "Intro to the Internet of Things"
+# Enable comments by entering your Disqus shortname
+disqusShortname = "arts-iot"
+# Enable Google Analytics by entering your tracking code
+# googleAnalytics = ""
+theme = "hugo-hikari-theme"
+
+[permalinks]
+  post = "/post/:slug"
+  fixed = ":title/"
+
+[params]
+  name = "Cody"
+  description = "Intro to the Internet of Things - ARTS 391 - 004 Spring 2016"
+  copyright = "&#9996; Spring 2016 &nbsp; &nbsp; &nbsp; &#9998; whitbycw@vcu.edu"
+
+  #Intro to the Internet of Things &#183; ARTS 391 &#183; 004 Spring 2016
+
+  pageNotFoundTitle = "Page not found"
+  pageNotFoundSubtitle = "Sorry, but the requested page wasn’t <br> found on the server."
+
+[params.offcanvas]
+  # Menu items
+  title = "Cody Whitby"
+  bio = "whitbycw@vcu.edu"
+  subscribe = "Subscribe"
+  followme = "Follow me on"
+
+  [[params.offcanvas.socialnetworks]]
+    name = "Github"
+    url = "//github.com/spf13"
+
+  [[params.offcanvas.socialnetworks]]
+    name = "Twitter"
+    url = "//twitter.com/spf13"
