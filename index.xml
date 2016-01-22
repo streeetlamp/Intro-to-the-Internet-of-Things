@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Intro to the Internet of Things</title>
-    <link>/</link>
+    <link>http://streeetlamp.github.io/Intro-to-the-Internet-of-Things/</link>
     <description>Recent content on Intro to the Internet of Things</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 22 Jan 2016 14:12:14 -0500</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://streeetlamp.github.io/Intro-to-the-Internet-of-Things/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Hardware Checkout</title>
-      <link>/hardware-checkout/</link>
+      <link>http://streeetlamp.github.io/Intro-to-the-Internet-of-Things/hardware-checkout/</link>
       <pubDate>Fri, 22 Jan 2016 14:12:14 -0500</pubDate>
       
-      <guid>/hardware-checkout/</guid>
+      <guid>http://streeetlamp.github.io/Intro-to-the-Internet-of-Things/hardware-checkout/</guid>
       <description>
 
 &lt;p&gt;I have a small collection of various boards and sensors that I&amp;rsquo;m always adding to and will make available to loan out if you agree to do your best not to break or lose anything. This could be useful for trying before buying or just to tinker with actual hardware.&lt;/p&gt;
@@ -68,10 +68,10 @@
     
     <item>
       <title>Resources</title>
-      <link>/resources/</link>
+      <link>http://streeetlamp.github.io/Intro-to-the-Internet-of-Things/resources/</link>
       <pubDate>Fri, 22 Jan 2016 12:33:21 -0500</pubDate>
       
-      <guid>/resources/</guid>
+      <guid>http://streeetlamp.github.io/Intro-to-the-Internet-of-Things/resources/</guid>
       <description>
 
 &lt;h3 id=&#34;hardware:74f7fb04a75e766307d398251c369a21&#34;&gt;Hardware&lt;/h3&gt;
@@ -136,10 +136,10 @@
     
     <item>
       <title>Hello World</title>
-      <link>/post/hello-world</link>
+      <link>http://streeetlamp.github.io/Intro-to-the-Internet-of-Things/post/hello-world</link>
       <pubDate>Fri, 22 Jan 2016 10:41:54 -0500</pubDate>
       
-      <guid>/post/hello-world</guid>
+      <guid>http://streeetlamp.github.io/Intro-to-the-Internet-of-Things/post/hello-world</guid>
       <description>&lt;p&gt;Hi everyone, this little site will be serving as a central repository for the course. That includes any assignments, resources, syllabus, discussions and sporadic posts of interesting or inspiring links.&lt;/p&gt;
 
 &lt;p&gt;Find a list of resources in the menu to the right -&amp;gt;&lt;/p&gt;
