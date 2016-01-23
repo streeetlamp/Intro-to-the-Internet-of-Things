@@ -4,7 +4,7 @@ title = "Intro to the Internet of Things"
 # Enable comments by entering your Disqus shortname
 disqusShortname = "arts-iot"
 # Enable Google Analytics by entering your tracking code
-# googleAnalytics = ""
+googleAnalytics = "UA-72775685-1"
 theme = "hugo-hikari-theme"
 canonifyurls = true
 
