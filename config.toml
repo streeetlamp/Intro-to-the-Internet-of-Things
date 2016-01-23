@@ -13,7 +13,7 @@ canonifyurls = true
   page = "/:slug"
 
 [params]
-  name = "Cody"
+  name = "Cody Whitby"
   description = "Intro to the Internet of Things - ARTS 391 - 004 Spring 2016"
   copyright = "&#9996; Spring 2016 &nbsp; &nbsp; &nbsp; &#9998; whitbycw@vcu.edu"
 
@@ -26,13 +26,3 @@ canonifyurls = true
   # Menu items
   title = "Cody Whitby"
   bio = "whitbycw@vcu.edu"
-  subscribe = "Subscribe"
-  followme = "Follow me on"
-
-  [[params.offcanvas.socialnetworks]]
-    name = "Github"
-    url = "//github.com/spf13"
-
-  [[params.offcanvas.socialnetworks]]
-    name = "Twitter"
-    url = "//twitter.com/spf13"

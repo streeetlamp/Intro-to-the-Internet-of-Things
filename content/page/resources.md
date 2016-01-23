@@ -2,7 +2,6 @@
 date = "2016-01-22T12:33:21-05:00"
 description = ""
 title = "Resources"
-type = "page"
 +++
   
 ### Hardware
