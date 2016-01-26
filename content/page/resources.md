@@ -56,6 +56,7 @@ title = "Resources"
 [Processing + Arduino](http://playground.arduino.cc/Interfacing/Processing)  
 [Arduino Cheatsheet](https://cdn.sparkfun.com/assets/f/4/9/2/2/Arduino_Cheat_Sheet-11-12-13.pdf)  
 [techprep.fb.com](https://techprep.fb.com/)
+[wolfram.com/programming-lab](http://www.wolfram.com/programming-lab/)
 
 ### Student Discounts
 
