@@ -6,8 +6,94 @@
     <description>Recent content in Posts on Intro to the Internet of Things</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 Jan 2016 20:02:57 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 27 Jan 2016 12:31:33 -0500</lastBuildDate>
     <atom:link href="http://streeetlamp.github.io/Intro-to-the-Internet-of-Things/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>1-26 Discussion Notes</title>
+      <link>http://streeetlamp.github.io/Intro-to-the-Internet-of-Things/2016/01/27/1-26-discussion-notes</link>
+      <pubDate>Wed, 27 Jan 2016 12:31:33 -0500</pubDate>
+      
+      <guid>http://streeetlamp.github.io/Intro-to-the-Internet-of-Things/2016/01/27/1-26-discussion-notes</guid>
+      <description>
+
+&lt;h4 id=&#34;rundown-and-notes-from-our-in-class-discussion-on-1-26:0af65174ccf53dede43ea1c22462335e&#34;&gt;Rundown and notes from our in-class discussion on 1-26&lt;/h4&gt;
+
+&lt;p&gt;This should be more digestible over just posting my minimal slides without context, also including some supplementary links. Let me know if I forgot anything.&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;h3 id=&#34;what-is-the-internet:0af65174ccf53dede43ea1c22462335e&#34;&gt;What is the Internet?&lt;/h3&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/UlJku_CSyNg&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+  &lt;br&gt;&lt;br&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/h8K49dD52WA&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+  &lt;br&gt;&lt;br&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/7_LPdttKXPc&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+  &lt;br&gt;&lt;br&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/XE_FPEFpHt4&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;hr&gt;
+
+&lt;h3 id=&#34;and-a-computer:0af65174ccf53dede43ea1c22462335e&#34;&gt;And a computer&amp;hellip;&lt;/h3&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;1640s, &amp;ldquo;one who calculates&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The dictionary definition has changed obviously but a computer is a system that can modify data in some meaningful way. That could be a person, mechanical machine or a digital system like your laptop.&lt;/p&gt;
+
+&lt;p&gt;Thanks to transistors and silicone we have really fast and small computers now but some distinct eras came before.&lt;/p&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/bymOIRg5M9E&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;  
+&lt;br&gt;&lt;br&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/abapFJN6glo&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;  
+&lt;br&gt;&lt;br&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/gnAAJ1FGudE&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://www.homebrewcpu.com/&#34;&gt;homebrewcpu.com&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;a-very-brief-time-line:0af65174ccf53dede43ea1c22462335e&#34;&gt;A very brief time line&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Mechanical Era&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;The Abacus, 3000 BC&lt;/li&gt;
+&lt;li&gt;Slide Rule, 1622&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Analytical_Engine&#34;&gt;Babbage&amp;rsquo;s Analytical Engine, 1834&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Electro-Mechanical&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Harvard_Mark_I&#34;&gt;Harvard Mark I, 1944&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Electronic / Vacuum Tubes&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/ENIAC&#34;&gt;ENIAC, 1946&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Electronic / Transistors&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/IBM_305_RAMAC&#34;&gt;IBM 305 Ramac, 1958&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Electronic / Integrated Circuit (microchips)&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/PDP-8&#34;&gt;PDP-8, 1965&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Xerox_Alto&#34;&gt;Xerox Alto, 1973&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Apple_I&#34;&gt;Apple I, 1976&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Commodore_64&#34;&gt;Commodore 64, 1982&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The Future / Quantum Computing&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/D-Wave_Systems#D-Wave_One_computer_system&#34;&gt;D-Wave One&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;In some ways, today&amp;rsquo;s computers have capabilities that vastly exceed those of the human brain, such as performing mathematical calculations at extremely fast speeds and transforming complex images. In other ways, however, they are still extremely dumb, such as their inability to make sense of simple situations or to be creative.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr&gt;
+
+&lt;h3 id=&#34;so-the-internet-of-things:0af65174ccf53dede43ea1c22462335e&#34;&gt;So the Internet of Things&lt;/h3&gt;
+
+&lt;p&gt;The hype is real, it&amp;rsquo;s a big buzzword right now but it just means things that connect to the Internet and are pushing or pulling data. Thermostats, fridges, locks, cars, etc.&lt;br /&gt;
+&lt;strong&gt;&lt;a href=&#34;http://weputachipinit.tumblr.com/&#34;&gt;weputachipinit.tumblr.com&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;
+&lt;a href=&#34;http://www.gartner.com/newsroom/id/3114217&#34;&gt;&lt;img src=&#34;http://streeetlamp.github.io/Intro-to-the-Internet-of-Things/img/hype.png&#34; alt=&#34;IoT Hype&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;That’s the slippery slope of Internet of Things (IoT) — fix something that isn’t really broken with a solution that’s costlier, more complex, and requires regular charging.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>What is Code?</title>

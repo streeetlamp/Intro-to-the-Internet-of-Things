@@ -633,6 +633,13 @@ header {
   right: 0;
   width: 100%;
 }
+hr {
+  height: 2px;
+  display: block;
+  background-color: #DDD;
+  outline: 0; border: 0;
+  margin-top: 40px;
+}
 .site-wrapper.open .menu-icon {
   position: fixed;
 }
