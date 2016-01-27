@@ -6,7 +6,7 @@ title = "1-26 Discussion Notes"
 
 #### Rundown and notes from our in-class discussion on 1-26
 
-This should be more digestible over just posting my minimal slides without context, also including some supplementary links. Let me know if I forgot anything.
+This should be more digestible over just posting my minimal slides without context, also including some supplementary links. Let me know if I forgot to include something.  
 
 <hr>
 
