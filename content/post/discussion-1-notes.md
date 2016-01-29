@@ -1,7 +1,7 @@
 +++
 date = "2016-01-27T12:31:33-05:00"
 description = ""
-title = "1-26 Discussion Notes"
+title = "Intro Discussion Notes"
 +++
 
 #### Rundown and notes from our in-class discussion on 1-26
