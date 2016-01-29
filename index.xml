@@ -6,15 +6,31 @@
     <description>Recent content on Intro to the Internet of Things</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Jan 2016 12:31:33 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 29 Jan 2016 13:08:26 -0500</lastBuildDate>
     <atom:link href="http://streeetlamp.github.io/Intro-to-the-Internet-of-Things/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>1-26 Discussion Notes</title>
-      <link>http://streeetlamp.github.io/Intro-to-the-Internet-of-Things/2016/01/27/1-26-discussion-notes</link>
+      <title>Arduino &#43; LED Blink Workshop</title>
+      <link>http://streeetlamp.github.io/Intro-to-the-Internet-of-Things/2016/01/29/arduino--led-blink-workshop</link>
+      <pubDate>Fri, 29 Jan 2016 13:08:26 -0500</pubDate>
+      
+      <guid>http://streeetlamp.github.io/Intro-to-the-Internet-of-Things/2016/01/29/arduino--led-blink-workshop</guid>
+      <description>&lt;p&gt;We looked at three examples based on Arduino hardware, the Arduino IDE and some common components which can be found &lt;a href=&#34;https://learn.sparkfun.com/tutorials/sik-experiment-guide-for-arduino---v32&#34;&gt;here&lt;/a&gt; with great detail and more examples. We looked at examples 1, 2 and 4 in class.&lt;/p&gt;
+
+&lt;p&gt;Reminder that you can recreate all of these examples and tons more for FREE and without any hardware thanks to &lt;a href=&#34;https://123d.circuits.io&#34;&gt;123d.circuits.io&lt;/a&gt;. I recreated the first example for reference:&lt;/p&gt;
+
+&lt;iframe frameborder=&#39;0&#39; height=&#39;448&#39; marginheight=&#39;0&#39; marginwidth=&#39;0&#39; scrolling=&#39;no&#39; src=&#39;https://123d.circuits.io/circuits/1492828-hello-world-blink/embed#breadboard&#39; width=&#39;650&#39;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;And a great introduction to Arduino is available &lt;a href=&#34;https://learn.sparkfun.com/tutorials/what-is-an-arduino&#34;&gt;here&lt;/a&gt; that may answer any questions concerning details I may have glossed over due to time. The specific board I was using in class is the &lt;a href=&#34;https://www.sparkfun.com/products/11021&#34;&gt;UNO&lt;/a&gt;. As always please feel free to ask any questions you may be left with.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Intro Discussion Notes</title>
+      <link>http://streeetlamp.github.io/Intro-to-the-Internet-of-Things/2016/01/27/intro-discussion-notes</link>
       <pubDate>Wed, 27 Jan 2016 12:31:33 -0500</pubDate>
       
-      <guid>http://streeetlamp.github.io/Intro-to-the-Internet-of-Things/2016/01/27/1-26-discussion-notes</guid>
+      <guid>http://streeetlamp.github.io/Intro-to-the-Internet-of-Things/2016/01/27/intro-discussion-notes</guid>
       <description>
 
 &lt;h4 id=&#34;rundown-and-notes-from-our-in-class-discussion-on-1-26:0af65174ccf53dede43ea1c22462335e&#34;&gt;Rundown and notes from our in-class discussion on 1-26&lt;/h4&gt;
