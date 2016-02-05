@@ -6,8 +6,47 @@
     <description>Recent content in Posts on Intro to the Internet of Things</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 29 Jan 2016 13:08:26 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 05 Feb 2016 11:29:54 -0500</lastBuildDate>
     <atom:link href="http://streeetlamp.github.io/Intro-to-the-Internet-of-Things/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>JavaScript Resources &#43; Notes</title>
+      <link>http://streeetlamp.github.io/Intro-to-the-Internet-of-Things/2016/02/05/javascript-resources--notes</link>
+      <pubDate>Fri, 05 Feb 2016 11:29:54 -0500</pubDate>
+      
+      <guid>http://streeetlamp.github.io/Intro-to-the-Internet-of-Things/2016/02/05/javascript-resources--notes</guid>
+      <description>
+
+&lt;ul&gt;
+&lt;li&gt;Yes, the proper capitalization is JavaScript&lt;/li&gt;
+&lt;li&gt;No, it has nothing to do with Java&lt;/li&gt;
+&lt;li&gt;Initially used to make the web interactive&lt;/li&gt;
+&lt;li&gt;Entire applications are built with JS now&lt;/li&gt;
+&lt;li&gt;Can power web servers and databases too&lt;/li&gt;
+&lt;li&gt;Case-sensitive.&lt;/li&gt;
+&lt;li&gt;Lines end by semicolon ;&lt;/li&gt;
+&lt;li&gt;Block are delimited curly brackets by { }&lt;/li&gt;
+&lt;li&gt;Comments are between /* */ for multiple lines or after // for one line&lt;/li&gt;
+&lt;li&gt;Chrome Developer Tools are amazing&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;links:0a160265560b394f53f11d23bde3af23&#34;&gt;Links&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://hsablonniere.github.io/markleft/prezas/javascript-101.html#1.0&#34;&gt;JavaScript 101&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;eloquentjavascript.net&#34;&gt;Eloquent JavaScript&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/getify/You-Dont-Know-JS&#34;&gt;You Dont Know JS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/revolunet/JSbooks&#34;&gt;FREE JS Books&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.codecademy.com/&#34;&gt;Codecademy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.khanacademy.org/&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.digitaltutors.com/groups/vcu&#34;&gt;PluralSight&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ericelliott/essential-javascript-links&#34;&gt;Huge List of Useful Resources&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://johnny-five.io/&#34;&gt;Johnny-Five&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://streeetlamp.github.io/Intro-to-the-Internet-of-Things/img/web-dev.jpg&#34; alt=&#34;web dev&#34; title=&#34;web dev&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Arduino &#43; LED Blink Workshop</title>
