@@ -6,8 +6,31 @@
     <description>Recent content on Intro to the Internet of Things</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Feb 2016 10:55:33 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 15 Feb 2016 12:18:52 -0500</lastBuildDate>
     <atom:link href="http://streeetlamp.github.io/Intro-to-the-Internet-of-Things/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Soldering Wire to NASA Standards</title>
+      <link>http://streeetlamp.github.io/Intro-to-the-Internet-of-Things/2016/02/15/soldering-wire-to-nasa-standards</link>
+      <pubDate>Mon, 15 Feb 2016 12:18:52 -0500</pubDate>
+      
+      <guid>http://streeetlamp.github.io/Intro-to-the-Internet-of-Things/2016/02/15/soldering-wire-to-nasa-standards</guid>
+      <description>
+
+&lt;p&gt;In class I demonstrated some of my self-taught soldering techniques but if you were curious if your wire splicing is up to NASA standards please see this informative diagram below. This is commonly known as a Lineman&amp;rsquo;s splice.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://streeetlamp.github.io/Intro-to-the-Internet-of-Things/img/nasa.png&#34; alt=&#34;NASA&#34; title=&#34;NASA&#34; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The conductors shall be pre-tinned.&lt;/li&gt;
+&lt;li&gt;There shall be at least 3 turns around each conductor and the wraps shall be tight with no gaps between adjacent turns.&lt;/li&gt;
+&lt;li&gt;The wraps shall not overlap and the ends of the wrap shall be trimmed flush prior to soldering to prevent protruding ends.&lt;/li&gt;
+&lt;li&gt;Conductors shall not overlap the insulation of the other wire.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&#34;shoutouts-to-http-makezine-com-2012-02-28-how-to-splice-wire-to-nasa-standards:448a0f166f3ff1a86ac537e586aa7cf0&#34;&gt;Shoutouts to &lt;a href=&#34;http://makezine.com/2012/02/28/how-to-splice-wire-to-nasa-standards/&#34;&gt;http://makezine.com/2012/02/28/how-to-splice-wire-to-nasa-standards/&lt;/a&gt;&lt;/h5&gt;
+</description>
+    </item>
     
     <item>
       <title>LEDs Without Math</title>
