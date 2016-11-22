@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Intro to the Internet of Things</title>
-    <link>http://streeetlamp.github.io/Intro-to-the-Internet-of-Things/post/</link>
-    <description>Recent content in Posts on Intro to the Internet of Things</description>
+    <title>Post-rsses on Intro to the Internet of Things</title>
+    <link>http://streeetlamp.github.io/Intro-to-the-Internet-of-Things/post/index.xml</link>
+    <description>Recent content in Post-rsses on Intro to the Internet of Things</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>&amp;#9996; Spring 2016 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;#9998; whitbycw@vcu.edu</copyright>
     <lastBuildDate>Mon, 15 Feb 2016 12:18:52 -0500</lastBuildDate>
     <atom:link href="http://streeetlamp.github.io/Intro-to-the-Internet-of-Things/post/index.xml" rel="self" type="application/rss+xml" />
     
@@ -28,7 +29,7 @@
 &lt;li&gt;Conductors shall not overlap the insulation of the other wire.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h5 id=&#34;shoutouts-to-http-makezine-com-2012-02-28-how-to-splice-wire-to-nasa-standards:448a0f166f3ff1a86ac537e586aa7cf0&#34;&gt;Shoutouts to &lt;a href=&#34;http://makezine.com/2012/02/28/how-to-splice-wire-to-nasa-standards/&#34;&gt;http://makezine.com/2012/02/28/how-to-splice-wire-to-nasa-standards/&lt;/a&gt;&lt;/h5&gt;
+&lt;h5 id=&#34;shoutouts-to-http-makezine-com-2012-02-28-how-to-splice-wire-to-nasa-standards&#34;&gt;Shoutouts to &lt;a href=&#34;http://makezine.com/2012/02/28/how-to-splice-wire-to-nasa-standards/&#34;&gt;http://makezine.com/2012/02/28/how-to-splice-wire-to-nasa-standards/&lt;/a&gt;&lt;/h5&gt;
 </description>
     </item>
     
@@ -52,7 +53,7 @@
       <guid>http://streeetlamp.github.io/Intro-to-the-Internet-of-Things/2016/02/05/the-internet-of-things-will-be-the-worlds-biggest-robot</guid>
       <description>
 
-&lt;h2 id=&#34;forbes-com-sites-bruceschneier-2016-02-02-the-internet-of-things-will-be-the-worlds-biggest-robot-http-www-forbes-com-sites-bruceschneier-2016-02-02-the-internet-of-things-will-be-the-worlds-biggest-robot:8b138b05b2aebb160041778934fa4a0c&#34;&gt;&lt;a href=&#34;http://www.forbes.com/sites/bruceschneier/2016/02/02/the-internet-of-things-will-be-the-worlds-biggest-robot/&#34;&gt;forbes.com/sites/bruceschneier/2016/02/02/the-internet-of-things-will-be-the-worlds-biggest-robot&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;forbes-com-sites-bruceschneier-2016-02-02-the-internet-of-things-will-be-the-worlds-biggest-robot-http-www-forbes-com-sites-bruceschneier-2016-02-02-the-internet-of-things-will-be-the-worlds-biggest-robot&#34;&gt;&lt;a href=&#34;http://www.forbes.com/sites/bruceschneier/2016/02/02/the-internet-of-things-will-be-the-worlds-biggest-robot/&#34;&gt;forbes.com/sites/bruceschneier/2016/02/02/the-internet-of-things-will-be-the-worlds-biggest-robot&lt;/a&gt;&lt;/h2&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;We’re building a world-sized robot, and we don’t even realize it.&lt;/p&gt;
@@ -64,10 +65,10 @@
     
     <item>
       <title>JavaScript Resources &#43; Notes</title>
-      <link>http://streeetlamp.github.io/Intro-to-the-Internet-of-Things/2016/02/05/javascript-resources--notes</link>
+      <link>http://streeetlamp.github.io/Intro-to-the-Internet-of-Things/2016/02/05/javascript-resources-&#43;-notes</link>
       <pubDate>Fri, 05 Feb 2016 11:29:54 -0500</pubDate>
       
-      <guid>http://streeetlamp.github.io/Intro-to-the-Internet-of-Things/2016/02/05/javascript-resources--notes</guid>
+      <guid>http://streeetlamp.github.io/Intro-to-the-Internet-of-Things/2016/02/05/javascript-resources-&#43;-notes</guid>
       <description>
 
 &lt;ul&gt;
@@ -83,7 +84,7 @@
 &lt;li&gt;Chrome Developer Tools are amazing&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&#34;links:0a160265560b394f53f11d23bde3af23&#34;&gt;Links&lt;/h4&gt;
+&lt;h4 id=&#34;links&#34;&gt;Links&lt;/h4&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://hsablonniere.github.io/markleft/prezas/javascript-101.html#1.0&#34;&gt;JavaScript 101&lt;/a&gt;&lt;/li&gt;
@@ -103,10 +104,10 @@
     
     <item>
       <title>Arduino &#43; LED Blink Workshop</title>
-      <link>http://streeetlamp.github.io/Intro-to-the-Internet-of-Things/2016/01/29/arduino--led-blink-workshop</link>
+      <link>http://streeetlamp.github.io/Intro-to-the-Internet-of-Things/2016/01/29/arduino-&#43;-led-blink-workshop</link>
       <pubDate>Fri, 29 Jan 2016 13:08:26 -0500</pubDate>
       
-      <guid>http://streeetlamp.github.io/Intro-to-the-Internet-of-Things/2016/01/29/arduino--led-blink-workshop</guid>
+      <guid>http://streeetlamp.github.io/Intro-to-the-Internet-of-Things/2016/01/29/arduino-&#43;-led-blink-workshop</guid>
       <description>&lt;p&gt;We looked at three examples based on Arduino hardware, the Arduino IDE and some common components which can be found &lt;a href=&#34;https://learn.sparkfun.com/tutorials/sik-experiment-guide-for-arduino---v32&#34;&gt;here&lt;/a&gt; with great detail and more examples. We looked at examples 1, 2 and 4 in class.&lt;/p&gt;
 
 &lt;p&gt;Reminder that you can recreate all of these examples and tons more for FREE and without any hardware thanks to &lt;a href=&#34;https://123d.circuits.io&#34;&gt;123d.circuits.io&lt;/a&gt;. I recreated the first example for reference:&lt;/p&gt;
@@ -125,13 +126,13 @@
       <guid>http://streeetlamp.github.io/Intro-to-the-Internet-of-Things/2016/01/27/intro-discussion-notes</guid>
       <description>
 
-&lt;h4 id=&#34;rundown-and-notes-from-our-in-class-discussion-on-1-26:0af65174ccf53dede43ea1c22462335e&#34;&gt;Rundown and notes from our in-class discussion on 1-26&lt;/h4&gt;
+&lt;h4 id=&#34;rundown-and-notes-from-our-in-class-discussion-on-1-26&#34;&gt;Rundown and notes from our in-class discussion on 1-26&lt;/h4&gt;
 
 &lt;p&gt;This should be more digestible over just posting my minimal slides without context, also including some supplementary links. Let me know if I forgot to include something.&lt;/p&gt;
 
 &lt;hr&gt;
 
-&lt;h3 id=&#34;what-is-the-internet:0af65174ccf53dede43ea1c22462335e&#34;&gt;What is the Internet?&lt;/h3&gt;
+&lt;h3 id=&#34;what-is-the-internet&#34;&gt;What is the Internet?&lt;/h3&gt;
 
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/UlJku_CSyNg&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
   &lt;br&gt;&lt;br&gt;
@@ -143,7 +144,7 @@
 
 &lt;hr&gt;
 
-&lt;h3 id=&#34;and-a-computer:0af65174ccf53dede43ea1c22462335e&#34;&gt;And a computer&amp;hellip;&lt;/h3&gt;
+&lt;h3 id=&#34;and-a-computer&#34;&gt;And a computer&amp;hellip;&lt;/h3&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;1640s, &amp;ldquo;one who calculates&amp;rdquo;&lt;/p&gt;
@@ -161,7 +162,7 @@
 
 &lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://www.homebrewcpu.com/&#34;&gt;homebrewcpu.com&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;a-very-brief-time-line:0af65174ccf53dede43ea1c22462335e&#34;&gt;A very brief time line&lt;/h3&gt;
+&lt;h3 id=&#34;a-very-brief-time-line&#34;&gt;A very brief time line&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Mechanical Era&lt;/strong&gt;&lt;/li&gt;
@@ -189,7 +190,7 @@
 
 &lt;hr&gt;
 
-&lt;h3 id=&#34;so-the-internet-of-things:0af65174ccf53dede43ea1c22462335e&#34;&gt;So the Internet of Things&lt;/h3&gt;
+&lt;h3 id=&#34;so-the-internet-of-things&#34;&gt;So the Internet of Things&lt;/h3&gt;
 
 &lt;p&gt;The hype is real, it&amp;rsquo;s a big buzzword right now but it just means things that connect to the Internet and are pushing or pulling data. Thermostats, fridges, locks, cars, etc.&lt;br /&gt;
 &lt;strong&gt;&lt;a href=&#34;http://weputachipinit.tumblr.com/&#34;&gt;weputachipinit.tumblr.com&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
@@ -213,13 +214,13 @@
 
 &lt;p&gt;&lt;img src=&#34;http://streeetlamp.github.io/Intro-to-the-Internet-of-Things/img/whatiscode.png&#34; alt=&#34;what is code&#34; title=&#34;what is code&#34; /&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;http-www-bloomberg-com-graphics-2015-paul-ford-what-is-code-http-www-bloomberg-com-graphics-2015-paul-ford-what-is-code:7fd94d010a54627a621fa1261251ebab&#34;&gt;&lt;a href=&#34;http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/&#34;&gt;http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;http-www-bloomberg-com-graphics-2015-paul-ford-what-is-code-http-www-bloomberg-com-graphics-2015-paul-ford-what-is-code&#34;&gt;&lt;a href=&#34;http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/&#34;&gt;http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/&lt;/a&gt;&lt;/h2&gt;
 
 &lt;p&gt;&lt;del&gt;This is not assigned reading&lt;/del&gt; *, just one of probably many posts I&amp;rsquo;ll make that in someways relate to our class.  A really great dude &lt;a href=&#34;https://twitter.com/ftrain&#34;&gt;Paul Ford&lt;/a&gt; wrote it and you should check out other stuff he writes/does/tweets too.&lt;/p&gt;
 
 &lt;p&gt;Longer read but very worth it I think.&lt;/p&gt;
 
-&lt;h5 id=&#34;just-kidding-this-is-now-assigned-reading-as-i-mentioned-in-class-and-in-my-email:7fd94d010a54627a621fa1261251ebab&#34;&gt;*just kidding, this is now assigned reading as I mentioned in class and in my email.&lt;/h5&gt;
+&lt;h5 id=&#34;just-kidding-this-is-now-assigned-reading-as-i-mentioned-in-class-and-in-my-email&#34;&gt;*just kidding, this is now assigned reading as I mentioned in class and in my email.&lt;/h5&gt;
 </description>
     </item>
     
@@ -238,7 +239,7 @@
 &lt;p&gt;Course schedule page in the works and some other fixing up coming.&lt;br /&gt;
 The GitHub repo for this site can be found at &lt;a href=&#34;https://github.com/streeetlamp/Intro-to-the-Internet-of-Things&#34;&gt;github.com/streeetlamp/Intro-to-the-Internet-of-Things&lt;/a&gt; by the way.&lt;/p&gt;
 
-&lt;p&gt;thanks thanks!&lt;/p&gt;
+&lt;p&gt;thanks thanks and thanks!&lt;/p&gt;
 </description>
     </item>
     
