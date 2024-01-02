@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom">
   <channel>
     <title>Page-rsses on Intro to the Internet of Things</title>
-    <link>http://streeetlamp.github.io/Intro-to-the-Internet-of-Things/page/index.xml</link>
+    <link>https://streeetlamp.github.io/Intro-to-the-Internet-of-Things/page/index.xml</link>
     <description>Recent content in Page-rsses on Intro to the Internet of Things</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;#9996; Spring 2016 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;#9998; whitbycw@vcu.edu</copyright>
     <lastBuildDate>Mon, 25 Jan 2016 15:27:34 -0500</lastBuildDate>
-    <atom:link href="http://streeetlamp.github.io/Intro-to-the-Internet-of-Things/page/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://streeetlamp.github.io/Intro-to-the-Internet-of-Things/page/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Electronics Vocabulary</title>
-      <link>http://streeetlamp.github.io/Intro-to-the-Internet-of-Things/electronics-vocabulary</link>
+      <link>https://streeetlamp.github.io/Intro-to-the-Internet-of-Things/electronics-vocabulary</link>
       <pubDate>Mon, 25 Jan 2016 15:27:34 -0500</pubDate>
       
-      <guid>http://streeetlamp.github.io/Intro-to-the-Internet-of-Things/electronics-vocabulary</guid>
+      <guid>https://streeetlamp.github.io/Intro-to-the-Internet-of-Things/electronics-vocabulary</guid>
       <description>&lt;p&gt;&lt;strong&gt;Amps/Ampere&lt;/strong&gt;&lt;br /&gt;
 Unit of electrical current. Named after Andre Marie Ampere. I=V/R&lt;/p&gt;
 
@@ -103,16 +103,16 @@ Transistors are semi conductors that amplify and switch current. It has at least
 &lt;p&gt;&lt;strong&gt;Voltage&lt;/strong&gt;&lt;br /&gt;
 The force pushing electrons to move in a circuit. Voltage is the measure of potential energy and it must always be measured between two points. We measure voltage in Volts. Voltage equals current multiplied by resistance.&lt;/p&gt;
 
-&lt;p&gt;Credits and Thanks: &lt;a href=&#34;http://beforebefore.net/scima200/f15/electronics/resources.html&#34;&gt;http://beforebefore.net/scima200/f15/electronics/resources.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Credits and Thanks: &lt;a href=&#34;https://beforebefore.net/scima200/f15/electronics/resources.html&#34;&gt;https://beforebefore.net/scima200/f15/electronics/resources.html&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Hardware Checkout</title>
-      <link>http://streeetlamp.github.io/Intro-to-the-Internet-of-Things/hardware-checkout</link>
+      <link>https://streeetlamp.github.io/Intro-to-the-Internet-of-Things/hardware-checkout</link>
       <pubDate>Fri, 22 Jan 2016 14:12:14 -0500</pubDate>
       
-      <guid>http://streeetlamp.github.io/Intro-to-the-Internet-of-Things/hardware-checkout</guid>
+      <guid>https://streeetlamp.github.io/Intro-to-the-Internet-of-Things/hardware-checkout</guid>
       <description>
 
 &lt;p&gt;I have a small collection of various boards and sensors that I&amp;rsquo;m always adding to and will make available to loan out if you agree to do your best not to break or lose anything. This could be useful for trying before buying or just to tinker with actual hardware.&lt;/p&gt;
@@ -166,10 +166,10 @@ The force pushing electrons to move in a circuit. Voltage is the measure of pote
     
     <item>
       <title>Resources</title>
-      <link>http://streeetlamp.github.io/Intro-to-the-Internet-of-Things/resources</link>
+      <link>https://streeetlamp.github.io/Intro-to-the-Internet-of-Things/resources</link>
       <pubDate>Fri, 22 Jan 2016 12:33:21 -0500</pubDate>
       
-      <guid>http://streeetlamp.github.io/Intro-to-the-Internet-of-Things/resources</guid>
+      <guid>https://streeetlamp.github.io/Intro-to-the-Internet-of-Things/resources</guid>
       <description>
 
 &lt;h3 id=&#34;hardware&#34;&gt;Hardware&lt;/h3&gt;
@@ -178,12 +178,12 @@ The force pushing electrons to move in a circuit. Voltage is the measure of pote
 &lt;a href=&#34;https://www.particle.io/&#34;&gt;particle.io&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&#34;https://www.adafruit.com/&#34;&gt;adafruit.com&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&#34;https://www.sparkfun.com/&#34;&gt;sparkfun.com&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;http://shrimping.it/blog/&#34;&gt;shrimping.it&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;http://littlebits.cc/&#34;&gt;littlebits.cc&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://shrimping.it/blog/&#34;&gt;shrimping.it&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://littlebits.cc/&#34;&gt;littlebits.cc&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&#34;https://www.raspberrypi.org/&#34;&gt;raspberrypi.org&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;http://www.wink.com/&#34;&gt;wink.com&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://www.wink.com/&#34;&gt;wink.com&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&#34;https://www.smartthings.com/&#34;&gt;smartthings.com&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;http://www.makeymakey.com/&#34;&gt;makeymakey.com&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://www.makeymakey.com/&#34;&gt;makeymakey.com&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;tutorials&#34;&gt;Tutorials&lt;/h3&gt;
 
@@ -196,36 +196,36 @@ The force pushing electrons to move in a circuit. Voltage is the measure of pote
 &lt;h3 id=&#34;prototyping-software&#34;&gt;Prototyping Software&lt;/h3&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://123d.circuits.io/&#34;&gt;123d.circuits.io&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;http://fritzing.org/home/&#34;&gt;fritzing.org&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;http://kicad-pcb.org/&#34;&gt;kicad-pcb.org&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://fritzing.org/home/&#34;&gt;fritzing.org&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://kicad-pcb.org/&#34;&gt;kicad-pcb.org&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&#34;https://ifttt.com/&#34;&gt;ifttt.com&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&#34;https://zapier.com/&#34;&gt;zapier.com&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;http://www.netlabtoolkit.org/&#34;&gt;netlabtoolkit.org&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://www.netlabtoolkit.org/&#34;&gt;netlabtoolkit.org&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h3&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://www.creativeapplications.net/&#34;&gt;creativeapplications.net&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;http://hackaday.com/&#34;&gt;hackaday.com&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;http://iotlist.co/&#34;&gt;iotlist.co&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;http://postscapes.com/&#34;&gt;postscapes.com&lt;/a&gt;&lt;br /&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.creativeapplications.net/&#34;&gt;creativeapplications.net&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://hackaday.com/&#34;&gt;hackaday.com&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://iotlist.co/&#34;&gt;iotlist.co&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://postscapes.com/&#34;&gt;postscapes.com&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&#34;https://exciting.io/printer/&#34;&gt;exciting.io/printer&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&#34;https://github.com/HannahMitt/HomeMirror&#34;&gt;HomeMirror&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;http://www.instructables.com/id/CatBot-Automated-Cat-Laser/&#34;&gt;CatBot&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;http://danieldvork.in/arduino-controlled-html5-etch-a-sketch-using-node-js-and-websockets/&#34;&gt;Arduino + HTML5 Etch-a-Sketch&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://www.instructables.com/id/CatBot-Automated-Cat-Laser/&#34;&gt;CatBot&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://danieldvork.in/arduino-controlled-html5-etch-a-sketch-using-node-js-and-websockets/&#34;&gt;Arduino + HTML5 Etch-a-Sketch&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&#34;https://www.youtube.com/watch?v=j8D8YjgnGR4&#34;&gt;Seinfeld Door&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;javascript-interfaces&#34;&gt;Javascript Interfaces&lt;/h3&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://johnny-five.io/&#34;&gt;johnny-five.io&lt;/a&gt;&lt;br /&gt;
+&lt;p&gt;&lt;a href=&#34;https://johnny-five.io/&#34;&gt;johnny-five.io&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&#34;https://github.com/spark/sparkjs&#34;&gt;SparkJS&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;http://cylonjs.com/&#34;&gt;cylonjs.com&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://cylonjs.com/&#34;&gt;cylonjs.com&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;misc&#34;&gt;Misc&lt;/h3&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://playground.arduino.cc/Interfacing/Processing&#34;&gt;Processing + Arduino&lt;/a&gt;&lt;br /&gt;
+&lt;p&gt;&lt;a href=&#34;https://playground.arduino.cc/Interfacing/Processing&#34;&gt;Processing + Arduino&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&#34;https://cdn.sparkfun.com/assets/f/4/9/2/2/Arduino_Cheat_Sheet-11-12-13.pdf&#34;&gt;Arduino Cheatsheet&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&#34;https://techprep.fb.com/&#34;&gt;techprep.fb.com&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;http://www.wolfram.com/programming-lab/&#34;&gt;wolfram.com/programming-lab&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://www.wolfram.com/programming-lab/&#34;&gt;wolfram.com/programming-lab&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;student-discounts&#34;&gt;Student Discounts&lt;/h3&gt;
 
